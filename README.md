@@ -5,7 +5,7 @@
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRosa21&layout=compact)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
 
 
 ### Tecnologias que uso ###
