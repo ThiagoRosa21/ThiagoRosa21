@@ -23,6 +23,7 @@
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 <link rel="stylesheet" href="css/font-apex.min.css?v=2.2" type="text/css" />
 <span class="fa fa-apex" aria-hidden="true"></span>
+
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
 
