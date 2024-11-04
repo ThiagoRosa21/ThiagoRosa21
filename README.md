@@ -8,7 +8,7 @@
 
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,mysql,perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,perline=9)](https://skillicons.dev)
  
 ### Tools:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
