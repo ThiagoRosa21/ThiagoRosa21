@@ -11,15 +11,16 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,perline=9)](https://skillicons.dev)
  
 ### Tools:
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,ubuntu,windows,&perline=3)](https://skillicons.dev)
+
+
 ### Studying in this moment:
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+<img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
+
 ### Social Media
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=9)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
