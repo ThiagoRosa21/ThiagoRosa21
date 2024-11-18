@@ -11,11 +11,12 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,perline=9)](https://skillicons.dev)
  
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,ubuntu,windows,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,ubuntu,windows,&perline=4)](https://skillicons.dev)
 
 
 ### Studying in this moment:
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
 
 ### Social Media
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=9)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
