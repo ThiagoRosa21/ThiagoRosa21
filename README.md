@@ -14,12 +14,3 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### Social Media
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thiago-rosa-b53b1526b/)
-
-</div>
