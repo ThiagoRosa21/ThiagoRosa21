@@ -9,8 +9,8 @@
 
 ### Main Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,postman,fastapi&perline=5)](https://skillicons.dev)  
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,ubuntu,windows&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,mysql,postman,fastapi&perline=5)](https://skillicons.dev)  
+[![My Tools](https://skillicons.dev/icons?i=vscode,github,ubuntu,linux,docker&perline=5)](https://skillicons.dev)
 
 </div>
 
